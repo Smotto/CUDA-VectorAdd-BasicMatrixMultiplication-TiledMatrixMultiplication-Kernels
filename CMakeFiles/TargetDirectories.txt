@@ -1,0 +1,6 @@
+E:/Development/CodingProjects/CSC163-Parallel-Programming/A1/build/CMakeFiles/wb.dir
+E:/Development/CodingProjects/CSC163-Parallel-Programming/A1/build/CMakeFiles/VectorAdd_Template.dir
+E:/Development/CodingProjects/CSC163-Parallel-Programming/A1/build/CMakeFiles/BasicMatrixMultiplication_Template.dir
+E:/Development/CodingProjects/CSC163-Parallel-Programming/A1/build/CMakeFiles/TiledMatrixMultiplication_Template.dir
+E:/Development/CodingProjects/CSC163-Parallel-Programming/A1/build/CMakeFiles/ALL_BUILD.dir
+E:/Development/CodingProjects/CSC163-Parallel-Programming/A1/build/CMakeFiles/ZERO_CHECK.dir
